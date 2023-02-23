@@ -34,7 +34,6 @@ impl ProductService for ProductServiceImpl{
         match self.repository.select_by_name_like(&tran, &keyword).await{
             Ok(products) => {
                 if products.is_empty() {
-                    println!("一致する商品は見つかりません。");
                     return Err(AppError::SearchError(format!("{}に一致する商品は見つかりません。",keyword.to_string())));
                 }
                 Ok(products)
