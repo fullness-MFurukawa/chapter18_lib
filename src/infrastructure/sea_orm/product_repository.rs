@@ -1,6 +1,6 @@
 use std::sync::Arc;
 use async_trait::async_trait;
-use sea_orm::{ DatabaseTransaction, EntityTrait, QueryFilter, ColumnTrait, QueryOrder, Statement , DbBackend , ConnectionTrait};
+use sea_orm::{ DatabaseTransaction, EntityTrait, QueryFilter, ColumnTrait, QueryOrder , IntoActiveModel, ActiveModelTrait };
 use crate::domain::converter::Converter;
 use crate::{Result,AppError};
 use crate::domain::product::product::Product;
@@ -48,6 +48,15 @@ impl ProductRepository for ProductRepositorySeaOrm {
     /// 新しい商品を永続化する
     async fn insert(&self , transaction: &Self::Transaction , product: &Product) -> Result<Product>{
         let model = ProductConverterSeaOrm::from_entity(product).unwrap();
+        let active_model:product::ActiveModel = model.into_active_model().to_owned();
+        match active_model.insert(transaction).await {
+            Ok(new_model) => {
+                let new_product = ProductConverterSeaOrm::from_model(&new_model).unwrap();
+                Ok(new_product)
+            },
+            Err(error) => Err(AppError::from(error))
+        }
+        /* 
         let stmt = Statement::from_sql_and_values(
             DbBackend::Postgres,
             "INSERT INTO product (name,price,category_id) VALUES($1,$2,$3)",
@@ -57,6 +66,7 @@ impl ProductRepository for ProductRepositorySeaOrm {
             Ok(_) => Ok(product.clone()),
             Err(error) => Err(AppError::from(error))
         }
+        */
     }
     /// 商品名の存在チェックする
     async fn exists(&self , transaction:&Self::Transaction , name: &ProductName) -> Result<bool>{
