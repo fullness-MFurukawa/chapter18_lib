@@ -1,0 +1,10 @@
+C:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\PerfectRust\chapter18_lib\target\debug\deps\sea_query_binder-36883e893edca83e.rmeta: C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\lib.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\sqlx_postgres.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\values.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\sqlx.rs
+
+C:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\PerfectRust\chapter18_lib\target\debug\deps\libsea_query_binder-36883e893edca83e.rlib: C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\lib.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\sqlx_postgres.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\values.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\sqlx.rs
+
+C:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\PerfectRust\chapter18_lib\target\debug\deps\sea_query_binder-36883e893edca83e.d: C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\lib.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\sqlx_postgres.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\values.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\sqlx.rs
+
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\lib.rs:
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\sqlx_postgres.rs:
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\values.rs:
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\sea-query-binder-0.2.2\src\sqlx.rs:

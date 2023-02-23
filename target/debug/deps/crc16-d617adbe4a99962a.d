@@ -1,0 +1,10 @@
+C:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\PerfectRust\chapter18_lib\target\debug\deps\crc16-d617adbe4a99962a.rmeta: C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc16-0.4.0\src/lib.rs C:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\PerfectRust\chapter18_lib\target\debug\build\crc16-67bcb3e8a8639b5b\out/tables.rs
+
+C:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\PerfectRust\chapter18_lib\target\debug\deps\libcrc16-d617adbe4a99962a.rlib: C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc16-0.4.0\src/lib.rs C:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\PerfectRust\chapter18_lib\target\debug\build\crc16-67bcb3e8a8639b5b\out/tables.rs
+
+C:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\PerfectRust\chapter18_lib\target\debug\deps\crc16-d617adbe4a99962a.d: C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc16-0.4.0\src/lib.rs C:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\PerfectRust\chapter18_lib\target\debug\build\crc16-67bcb3e8a8639b5b\out/tables.rs
+
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc16-0.4.0\src/lib.rs:
+C:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\PerfectRust\chapter18_lib\target\debug\build\crc16-67bcb3e8a8639b5b\out/tables.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\devel\\Desktop\\書籍原稿\\PerfectRust\\sampleprog\\PerfectRust\\chapter18_lib\\target\\debug\\build\\crc16-67bcb3e8a8639b5b\\out

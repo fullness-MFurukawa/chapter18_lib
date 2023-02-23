@@ -1,0 +1,11 @@
+c:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\chapter18_lib\target\debug\deps\async_trait-46a5b7490ec7e84b.dll: C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\lib.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\args.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\bound.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\expand.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\lifetime.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\parse.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\receiver.rs
+
+c:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\chapter18_lib\target\debug\deps\async_trait-46a5b7490ec7e84b.d: C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\lib.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\args.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\bound.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\expand.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\lifetime.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\parse.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\receiver.rs
+
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\lib.rs:
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\args.rs:
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\bound.rs:
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\expand.rs:
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\lifetime.rs:
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\parse.rs:
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.62\src\receiver.rs:

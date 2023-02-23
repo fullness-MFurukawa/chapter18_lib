@@ -1,0 +1,14 @@
+c:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\chapter18_lib\target\debug\deps\crc-e07fe90ba851ec1e.rmeta: C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc-1.8.1\src\lib.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc-1.8.1\src\crc16.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc-1.8.1\src\crc32.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc-1.8.1\src\crc64.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc-1.8.1\src\util.rs c:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\chapter18_lib\target\debug\build\crc-94ac51782c13adc6\out/crc16_constants.rs c:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\chapter18_lib\target\debug\build\crc-94ac51782c13adc6\out/crc32_constants.rs c:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\chapter18_lib\target\debug\build\crc-94ac51782c13adc6\out/crc64_constants.rs
+
+c:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\chapter18_lib\target\debug\deps\crc-e07fe90ba851ec1e.d: C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc-1.8.1\src\lib.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc-1.8.1\src\crc16.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc-1.8.1\src\crc32.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc-1.8.1\src\crc64.rs C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc-1.8.1\src\util.rs c:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\chapter18_lib\target\debug\build\crc-94ac51782c13adc6\out/crc16_constants.rs c:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\chapter18_lib\target\debug\build\crc-94ac51782c13adc6\out/crc32_constants.rs c:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\chapter18_lib\target\debug\build\crc-94ac51782c13adc6\out/crc64_constants.rs
+
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc-1.8.1\src\lib.rs:
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc-1.8.1\src\crc16.rs:
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc-1.8.1\src\crc32.rs:
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc-1.8.1\src\crc64.rs:
+C:\Users\devel\.cargo\registry\src\github.com-1ecc6299db9ec823\crc-1.8.1\src\util.rs:
+c:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\chapter18_lib\target\debug\build\crc-94ac51782c13adc6\out/crc16_constants.rs:
+c:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\chapter18_lib\target\debug\build\crc-94ac51782c13adc6\out/crc32_constants.rs:
+c:\Users\devel\Desktop\書籍原稿\PerfectRust\sampleprog\chapter18_lib\target\debug\build\crc-94ac51782c13adc6\out/crc64_constants.rs:
+
+# env-dep:OUT_DIR=c:\\Users\\devel\\Desktop\\書籍原稿\\PerfectRust\\sampleprog\\chapter18_lib\\target\\debug\\build\\crc-94ac51782c13adc6\\out
